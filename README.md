@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aidan-White
 - 👀 I’m interested in video games, music, dragon ball, anything that I think is cool.
-- 🌱 I’m currently studying Computer Science at CU Boulder, learning C++.
-- 💞️ I still have much progress to make, but I hope to start making some projects soon!
+- 🌱 I’m currently studying Computer Science at CU Boulder as a sophomore
+- 💞️ I am currently working on a game called "Luigi's Creepypasta Escape"
 - 📫 You can message me on here!
 - 😄 Pronouns: He/him
 
